@@ -77,21 +77,27 @@ The following table highlights key operational fields with significant missing d
 
 India dominates the applicant pool at 4,617 applicants, representing 61.2% of all 7,543 records. The next largest market is the United States at 10%, followed by Ghana (5.6%), Nigeria (5.7%), and Pakistan (2.8%). No other country exceeds 2%.
 
+<img width="750" height="453" alt="image" src="https://github.com/user-attachments/assets/4747d051-b9a1-4706-b02e-3522b4bb025e" />
+
 **Finding 2: Duplicate records**
 
 Out of the total 7,543 records in this snapshot, nearly half the dataset is redundant data. Only **53.0% (4,000 records)** represent unique applicants, while the remaining **47.0% (3,543 records)** consist of duplicate entries.
 
-  
+  <img width="823" height="392" alt="image" src="https://github.com/user-attachments/assets/4d9226ea-8baa-4b85-8687-7b437fc1c40e" />
+
 
 **Finding 3: Study Group Channel Outperforms Standard Applications**
 
-Applicants acquired through the Study Group channel are at 13%, compared to 87% for non-Study Group. Non Study Group applicants have a higher observed admission rate than Study Group applicants in this dataset. This is an association in the observed data; the analysis does not establish that Study Group participation causes a higher probability of admission.
+Applicants acquired through the Study Group channel are at 13%, compared to 87% for non-Study Group. Non Study Group applicants have a higher observed application rate than Study Group applicants in this dataset. This is an association in the observed data; the analysis does not establish that Study Group participation causes a higher probability of admission.
 
-.
+.<img width="691" height="354" alt="image" src="https://github.com/user-attachments/assets/d174bc33-d849-4269-befc-23a02a8b3a5f" />
+
 
 **Finding 4: Outreach counsellors**
 
 A critical segment of **3,194 applicants (42.4%)** contains no recorded Date_of_Contact or tracking history. This indicates that either these 3,194 students were completely missed during counsellor outreach efforts, or the individual counsellors responsible for the contact failed to log their names and interaction timelines into the tracking system.
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/8fe4cfca-10ac-4948-be4c-55a10292e84f" />
 
 ## **Finding 5: Application Patterns**
 
@@ -112,6 +118,8 @@ At the application -period level, September 2024 has the largest recorded volume
 ## **Finding 6: Intake Patterns**
 
 Business Analytics is the largest program by applicant volume, with 846 applicants (16.9%), followed by Computer Science (607) and Data Science (337).
+
+<img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/c3951d09-edac-42ad-91b8-38d7eb9b4f4c" />
 
 # **7\. Initial EDA Findings**
 
